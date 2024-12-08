@@ -58,6 +58,7 @@ nav h4 {
 
 nav a {
     color: #333;
+    font-weight: bold; 
     text-decoration: none;
     margin: 0 15px;
     font-size: 1rem;
@@ -144,7 +145,7 @@ footer p {
 footer a {
     color: black;
     font-weight: bold; 
-    text-decoration: none;
+   
     transition: color 0.3s;
 }
 
