@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../Martynowicz-UD"
 		}
 	],
 	"settings": {}
